@@ -22,6 +22,7 @@ fun main() {
     * int = 32
     * Short = 16
     * Byte = 8
+    *
     */
     var yil = 2024
     var dogumYili = 1999
