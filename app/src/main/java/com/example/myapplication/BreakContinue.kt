@@ -24,7 +24,7 @@ fun main() {
         if ( i == 6) { //bundan sonra herhangi bir işlem yapmadan döngünün başına döner
             continue
         }
-        
+
         println(i)
     }
 }
