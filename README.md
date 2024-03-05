@@ -1,8 +1,6 @@
 # Kotlin Language Training
 
-![Kotlin icon](./Kotlin.png)
-
-This repository is dedicated to learning the Kotlin programming language through the course provided by Instructor Kasım Adalan on Udemy. Throughout the course, I am storing the code I write here. Below are the contents of the code:
+![Kotlin icon](./Kotlin.png) This repository is dedicated to learning the Kotlin programming language through the course provided by Instructor Kasım Adalan on Udemy. Throughout the course, I am storing the code I write here. Below are the contents of the code:
 
 - Arrays
 - Arrays with loops
