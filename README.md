@@ -9,3 +9,5 @@ This repository is dedicated to learning the Kotlin programming language through
   6. Loops etc.
 
 You can find the relevant codes and explanations under each topic. You can look at the relevant files to review the codes.
+![Kotlin icon](./Kotlin.png)
+
