@@ -30,7 +30,7 @@ fun main() {
     println("\n")
 
     var i = 0
-    while (i < 10) { //her şekilde bir sefer çalışmayı sağlar
+    while (i <= 10) { //her şekilde bir sefer çalışmayı sağlar
         println("while= $i")
         i +=2
     }
