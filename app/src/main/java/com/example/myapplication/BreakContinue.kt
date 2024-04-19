@@ -19,9 +19,11 @@ fun main() {
     for (i in firstValue..lastValue step step) {
 
         if ( i == 5) { //döngü kırılır ve for'dan çıkılır
+            println("5 olmamalıydı kaybettin...")
             break
         }
         if ( i == 6) { //bundan sonra herhangi bir işlem yapmadan döngünün başına döner
+            println("Bu sayı gösterilemez...")
             continue
         }
 
