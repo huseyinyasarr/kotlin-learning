@@ -12,6 +12,8 @@ fun main() {
         names[i] = inputName
     }
 
+
+
     for (i in 0 until names.count()) {
         println("${i+1}. İsim: ${names[i]}")
     }
