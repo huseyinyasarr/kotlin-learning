@@ -23,9 +23,9 @@ fun main() {
         }
     }
 
-    for (i in 0 until notes.count()) {
+    for (i in 0 until notes.count())
         sum += notes[i]
-    }
+
 
     for (i in 0 until lessons.count()) {
         println("${lessons[i]}: ${notes[i]}")
